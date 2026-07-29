@@ -4,7 +4,8 @@ Bu projede, Arduino UNO ve HC-SR04 ultrasonik mesafe sensörü kullanılarak nes
 
 ## Proje Dosyaları
 * **Kod:** Devreye yüklenen Arduino yazılımına `park_sensoru.ino` dosyasından ulaşabilirsiniz.
-* **Demo Video:** Sistemin test videosu için depodaki `park_sensor_video.mp4` dosyasını inceleyebilirsiniz.
+* **Demo Video:** Sistemin test videosu için depodaki `park_sensor_video.mp4` dosyasını inceleyebilirsiniz:
+  https://github.com/user-attachments/assets/8ada56dc-fb7d-4c4e-a43d-2c9f5b4c0abd
 
 ## Öne Çıkan Özellikler
 * **Gerçek Zamanlı Ölçüm:** HC-SR04 sensörü ile anlık mesafe tespiti.
